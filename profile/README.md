@@ -13,14 +13,12 @@ Sitebulb crawls your site, flags problems as categorised **Hints** that explain 
 
 ## Links
 
-|                     |                                                                                          |
-| ------------------- | ---------------------------------------------------------------------------------------- |
-| 🌐 **Website**       | [sitebulb.com](https://sitebulb.com)                                                     |
-| 🔌 **Sitebulb MCP**  | [sitebulb.com/mcp](https://sitebulb.com/mcp/) — chat with your Sitebulb audits            |
-| 📖 **MCP docs**      | [Sitebulb MCP: Start Here](https://support.sitebulb.com/en/articles/15970977-sitebulb-mcp-start-here) |
-| 🧠 **Skills**        | [Sitebulb Skills for Claude and ChatGPT](https://support.sitebulb.com/en/articles/15958059-sitebulb-skills-for-claude-and-chatgpt) |
-| 🆘 **Support**       | [support.sitebulb.com](https://support.sitebulb.com)                                     |
-| 📦 **Repos**         | [sitebulb/sitebulb-plugin](https://github.com/sitebulb/sitebulb-plugin) — official Sitebulb Skills plugin for Claude Code, Codex, Cursor and other AI coding agents |
+- 🌐 **Website** — [sitebulb.com](https://sitebulb.com)
+- 🔌 **Sitebulb MCP** — [sitebulb.com/mcp](https://sitebulb.com/mcp/) — chat with your Sitebulb audits
+- 📖 **MCP docs** — [Sitebulb MCP: Start Here](https://support.sitebulb.com/en/articles/15970977-sitebulb-mcp-start-here)
+- 🧠 **Skills** — [Sitebulb Skills for Claude and ChatGPT](https://support.sitebulb.com/en/articles/15958059-sitebulb-skills-for-claude-and-chatgpt)
+- 🆘 **Support** — [support.sitebulb.com](https://support.sitebulb.com)
+- 📦 **Repos** — [sitebulb/sitebulb-plugin](https://github.com/sitebulb/sitebulb-plugin) — official Sitebulb Skills plugin for Claude Code, Codex, Cursor and other AI coding agents
 
 ---
 
